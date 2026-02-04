@@ -22,8 +22,10 @@ A fast, privacy-friendly counter that shows how many times your profile is viewe
 ---
 
 ### 🔗 Links
-- 🌐 Telegram: https://t.me/BlueOrbitDevs  
-- 👨‍💻 GitHub: https://github.com/BlueOrbitDevs  
+
+[![Telegram](https://img.shields.io/badge/Telegram-BlueOrbitDevs-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BlueOrbitDevs)
+[![GitHub](https://img.shields.io/badge/GitHub-BlueOrbitDevs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlueOrbitDevs)
+[![YouTube](https://img.shields.io/badge/YouTube-BlueOrbitDevs-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@BlueOrbitDevs)  
 
 ---
 

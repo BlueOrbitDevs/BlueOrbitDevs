@@ -22,9 +22,8 @@ A fast, privacy-friendly counter that shows how many times your profile is viewe
 ---
 
 ### 🔗 Links
-- 🌐 Website: https://blueorbitdevs.workers.dev  
+- 🌐 Telegram: https://t.me/BlueOrbitDevs  
 - 👨‍💻 GitHub: https://github.com/BlueOrbitDevs  
-- 📊 Counter Service: https://profileviews.blueorbitdevs.workers.dev  
 
 ---
 

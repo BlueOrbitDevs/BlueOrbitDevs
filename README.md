@@ -15,7 +15,7 @@ We love open-source, fast systems, and clean design.
 👉 Try our **GitHub Profile Views Counter**  
 A fast, privacy-friendly counter that shows how many times your profile is viewed.
 
-<a href="https://github.com/BlueOrbitDevs/profile-views-counter">
+<a href="https://github.com/BlueOrbitDevs/GitHub-Profile-Views-Counter">
     <img src="https://profileviews.blueorbitdevs.workers.dev/?username=BlueOrbitDevs&style=for-the-badge">
 </a>
 
